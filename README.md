@@ -110,7 +110,7 @@ This project uses the ESP-DNN model to generate electrostatic potential surfaces
 
 We also acknowledge the use of the Tox24 Challenge data provided by [Tetko (2024)](https://doi.org/10.1021/acs.chemrestox.4c00192).
 
-I am deeply grateful to my brother, **Kevin Henry** of the Mohammed Bin Zayed University of Artificial Intelligence, for his invaluable support and contributions to this project. His expertise in coding and insightful guidance were instrumental in overcoming key challenges and advancing this research.
+I am beyond grateful to my brother, **Kevin Henry**, whose constant support and technical expertise were the backbone of this project. His patience, thoughtful guidance, and willingness to dive into every challenge with me made this a true brother-sister collaboration. From coding hurdles to late-night problem-solving, he was always there, making this journey both rewarding and memorable. I couldn’t have done it without him!
 
 Additionally, I would like to extend my sincere thanks to **Chris Lumen Ben** for generously providing access to his GPU, which was essential for conducting the computational experiments necessary for this study.
 
