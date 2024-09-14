@@ -48,6 +48,15 @@ While our model did not outperform the baseline, it provides a foundation for fu
 
 ### Installation and Usage
 
+#### Prerequisites
+
+Before starting, ensure that you have the following installed:
+
+- Python 3.6 or higher
+- JupyterLab (or Jupyter Notebook)
+- Other necessary libraries are listed in `requirements.txt`.
+
+
 1. **Clone the repository**:
 
    ```bash
